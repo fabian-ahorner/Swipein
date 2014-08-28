@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">848927257227</string>
+  <string name="leaderboard_surival_2x2_2">CgkIi-WHwNoYEAIQAQ</string>
+  <string name="leaderboard_surival_3x3_3">CgkIi-WHwNoYEAIQAg</string>
+  <string name="leaderboard_surival_2x3_3">CgkIi-WHwNoYEAIQAw</string>
+  <string name="leaderboard_surival_2x4_4">CgkIi-WHwNoYEAIQBA</string>
+  <string name="leaderboard_surival_3x3_5">CgkIi-WHwNoYEAIQBQ</string>
+  <string name="leaderboard_surival_3x4_6">CgkIi-WHwNoYEAIQBg</string>
+</resources>

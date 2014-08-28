@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="your_score">Dein score</string>
+    <string name="old_score">Alter score: %s</string>
+    <string name="restart">Noch mal!</string>
+    <string name="leaderboard">Bestenliste</string>
+    <string name="time_out">Zeit abgelaufen!</string>
+
+</resources>

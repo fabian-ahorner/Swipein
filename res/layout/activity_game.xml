@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bitflake.dots.fragments.GameFragment" >
+
+    <View
+        android:id="@+id/game_progress"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/progress_background" />
+
+    <com.bitflake.pull.views.GameField
+        android:id="@+id/game_field"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true" />
+
+
+</RelativeLayout>

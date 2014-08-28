@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Swipe In</string>
+    <string name="your_score">Your score</string>
+    <string name="old_score">Old score: %s</string>
+    <string name="restart">Restart</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="time_out">Time out!</string>
+    <string name="paused">Paused</string>
+</resources>

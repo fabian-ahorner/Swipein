@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="progress">#222</color>
+    <color name="text_primary">#FFF</color>
+    <color name="text_secondary">#000</color>
+    <color name="accent">#FFF</color>
+    <color name="inset">#888</color>
+    <color name="background">#000</color>
+    <color name="background_transparent">#C111</color>
+    <color name="accent_transparent">#CFF8</color>
+    <color name="button_background">#CFFF</color>
+
+</resources>
